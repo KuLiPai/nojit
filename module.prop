@@ -1,4 +1,4 @@
-id=usejit.prop
+id=nojit.prop
 name=Set dalvik.vm.usejit to false
 version=v1.0
 versionCode=1
