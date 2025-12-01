@@ -1,0 +1,6 @@
+id=usejit.prop
+name=Set dalvik.vm.usejit to false
+version=v1.0
+versionCode=1
+author=KuLiPai
+description=Sets dalvik.vm.usejit to false using system.prop.
